@@ -5,7 +5,8 @@
  *
  * @node: A pointer to the node to find the sibling.
  *
- * Return: A pointer to the sibling node, or NULL if node is NULL or the parent is NULL,
+ * Return: A pointer to the sibling node,
+ * or NULL if node is NULL or the parent is NULL,
  *         or if node has no sibling.
  */
 
