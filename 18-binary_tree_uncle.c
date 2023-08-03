@@ -5,7 +5,8 @@
  *
  * @node: A pointer to the node to find the uncle.
  *
- * Return: A pointer to the uncle node, or NULL if node is NULL or has no uncle.
+ * Return: A pointer to the uncle node,
+ * or NULL if node is NULL or has no uncle.
  */
 
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
